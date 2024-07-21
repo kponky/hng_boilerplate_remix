@@ -6,7 +6,7 @@ const HeroSection: React.FC = () => {
   return (
     <div className="relative flex w-full items-center lg:mx-[120px] lg:w-[81%]">
       <img
-        src="/public/images/herosectionImg.jpg"
+        src="/images/herosectionImg.jpg"
         alt="hero img"
         className="w-full"
       />
